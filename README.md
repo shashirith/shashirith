@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashirith" target="blank"><img src="https://img.shields.io/twitter/follow/shashirith?logo=twitter&style=for-the-badge" alt="shashirith" /></a> </p>
 
-- 🌱 I’m currently learning **React,Solidity , Smart Contracts, Metamask , Hardhat , VoltaBlockchain,MySQL,Express.js,MongoDB, Node.js.**
+- 🌱 I’m currently learning **React,NextJs,VueJs,TypeScript, GraphQl , Javascript ,MySQL,Express.js,MongoDB, Node.js.**
 
 - 💬 Ask me about **MERN,Decentralized Application**
 
