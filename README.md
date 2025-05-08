@@ -1,12 +1,31 @@
-<h2 align="left">Hi 👋! I'm Shashirith</h2>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shashirith&label=Profile%20views&color=0e75b6&style=flat" alt="shashirith" /> </p>
+<h2 align="center">Hi 👋! I'm Shashirith</h2>
 
 ###
 
-<p align="left">I'm Full Stack Web Developer from India</p>
+<p align="center">I'm Software Engineer from India</p>
+
 
 ###
 
-<div align="left">
+
+
+<!-- Badge -->
+
+
+<br>
+
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shashirith&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shashirith&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+
+  <br>
+  <br>
+  ###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
@@ -78,16 +97,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/shashirith_1601/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:email@shashirith1601" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<!--   <a href="https://shashirith/en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"  />
-  </a> -->
 </div>
 
-###
+
+</p>
+
+
+
+
